@@ -1,0 +1,14 @@
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\hajee\source\repos\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.exe
+C:\Users\hajee\source\repos\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+C:\Users\hajee\source\repos\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.runtimeconfig.json
+C:\Users\hajee\source\repos\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.dll
+C:\Users\hajee\source\repos\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.dll
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
+C:\Users\hajee\source\repos\BlackJack\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll

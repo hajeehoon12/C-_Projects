@@ -1,0 +1,14 @@
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\bin\Debug\net6.0\TikTakTo.exe
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\bin\Debug\net6.0\TikTakTo.deps.json
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\bin\Debug\net6.0\TikTakTo.runtimeconfig.json
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\bin\Debug\net6.0\TikTakTo.dll
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\bin\Debug\net6.0\TikTakTo.pdb
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.AssemblyInfoInputs.cache
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.AssemblyInfo.cs
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.csproj.CoreCompileInputs.cache
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.dll
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\refint\TikTakTo.dll
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.pdb
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\TikTakTo.genruntimeconfig.cache
+C:\Users\hajee\source\repos\TikTakTo\TikTakTo\obj\Debug\net6.0\ref\TikTakTo.dll
