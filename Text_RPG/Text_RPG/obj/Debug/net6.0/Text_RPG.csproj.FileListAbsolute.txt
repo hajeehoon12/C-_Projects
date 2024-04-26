@@ -1,0 +1,15 @@
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\bin\Debug\net6.0\Text_RPG.exe
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\bin\Debug\net6.0\Text_RPG.deps.json
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\bin\Debug\net6.0\Text_RPG.runtimeconfig.json
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\bin\Debug\net6.0\Text_RPG.dll
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\bin\Debug\net6.0\Text_RPG.pdb
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.AssemblyInfoInputs.cache
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.AssemblyInfo.cs
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.csproj.CoreCompileInputs.cache
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.sourcelink.json
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.dll
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\refint\Text_RPG.dll
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.pdb
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\Text_RPG.genruntimeconfig.cache
+C:\Users\hajee\Desktop\깃허브 C#\C_Shop_Projects\Text_RPG\Text_RPG\obj\Debug\net6.0\ref\Text_RPG.dll
