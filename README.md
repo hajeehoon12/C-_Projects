@@ -1,2 +1,2 @@
 # C-_Projects
- A collection of projects created in C#
+ A Collection of Simple Projects Created in C#
